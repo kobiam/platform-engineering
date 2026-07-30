@@ -9,10 +9,7 @@ Disable tracker-miner
 sudo systemctl --global mask tracker-miner-fs-3.service
 sudo systemctl --global mask tracker-xdg-portal-3.service
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> 5867a6f578ddef9af3464e5afc3cd0815644b161
 ## GPU
 
 Set Up Hardware Video Acceleration with a Radeon (AMD) Card on Linux Ubuntu
